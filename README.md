@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20the%20Land%20of%20Ooo&fontSize=42&fontColor=ffffff&color=0:FF6FB5,50:4FC3E8,100:7ED957&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="assets/header-banner.gif" width="100%"/>
 
 <a href="https://github.com/maryamirshad04">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FE8C8&center=true&vCenter=true&width=650&lines=I'm+Maryam+%E2%80%94+turning+coffee+into+code+since+day+one;Currently+questing+through+my+final+semester+at+FAST+NUCES;Half+web+dev%2C+half+ML%2C+all+curiosity" alt="Typing SVG" />
@@ -11,8 +11,8 @@
 <br>
 
 <!--
-  🍭 BMO lives right here. Upload bmo-dither.gif to an /assets folder in this repo
-  and keep the path below pointing at it, e.g. assets/bmo-dither.gif
+  🍭 Upload all three gifs into an /assets folder in this repo:
+  header-banner.gif, bmo-dither.gif, footer-banner.gif
 -->
 <div align="center">
   <img src="assets/bmo-dither.gif" width="520" alt="Dithered BMO"/>
@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7ED957,50:4FC3E8,100:FF6FB5"/>
+  <img src="assets/footer-banner.gif" width="100%"/>
 </div>
 
 <div align="center">
