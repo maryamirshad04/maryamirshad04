@@ -15,7 +15,7 @@
   and keep the path below pointing at it, e.g. assets/bmo-dither.gif
 -->
 <div align="center">
-  <img src="assets/bmo-dither.gif" width="260" alt="Dithered BMO"/>
+  <img src="assets/bmo-dither.gif" width="520" alt="Dithered BMO"/>
   <br>
   <sub><i>"Adventure Time!" — BMO, probably, in dithered mint-green glory</i></sub>
 </div>
