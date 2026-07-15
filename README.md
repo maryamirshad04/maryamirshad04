@@ -17,7 +17,7 @@
 <div align="center">
   <img src="assets/bmo-dither.gif" width="520" alt="Dithered BMO"/>
   <br>
-  <sub><i>"Adventure Time!" — BMO, probably, in dithered mint-green glory</i></sub>
+  <sub><i>"Time is an illusion that helps things make sense." — BMO</i></sub>
 </div>
 
 <br>
