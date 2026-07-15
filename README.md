@@ -3,13 +3,17 @@
 <img src="assets/header-banner.gif" width="100%"/>
 
 <a href="https://github.com/maryamirshad04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FE8C8&center=true&vCenter=true&width=650&lines=I'm+Maryam+Quid novi?+Turning+coffee+into+code+since+day+one;RN+questing+through+my+7th+semester+at+FAST+NUCES;Half+web+dev%2C+half+ML%2C+all+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FE8C8&center=true&vCenter=true&width=650&lines=I'm+Maryam+%E2%80%94+turning+coffee+into+code+since+day+one;Currently+questing+through+my+7th+semester+at+FAST+NUCES;Half+web+dev%2C+half+ML%2C+all+curiosity" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
 
+<!--
+  🍭 Upload all three gifs into an /assets folder in this repo:
+  header-banner.gif, bmo-dither.gif, footer-banner.gif
+-->
 <div align="center">
   <img src="assets/bmo-dither.gif" width="520" alt="Dithered BMO"/>
   <br>
@@ -27,22 +31,24 @@
 <div align="center">
 
 <a href="https://github.com/maryamirshad04/HypeWall">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=HypeWall&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=HypeWall&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
 </a>
 <a href="https://github.com/maryamirshad04/sickleaf">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=sickleaf&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=sickleaf&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
 </a>
 
 <br/>
 
 <a href="https://github.com/maryamirshad04/EventEase">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=EventEase&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=EventEase&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
 </a>
 <a href="https://github.com/maryamirshad04/ClearWay">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=ClearWay&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=ClearWay&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
 </a>
 
 </div>
+
+> Swap in any other repos you'd rather feature — just change the `repo=` name in each card link above to match.
 
 <br>
 
@@ -58,12 +64,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maryamirshad04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maryamirshad04&theme=dark&hide_border=true&background=0D1B1A&ring=8FE8C8&fire=FF6FB5&currStreakLabel=D6FFE7&sideLabels=D6FFE7&dates=6E9C8E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maryamirshad04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&cache_seconds=1800" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=maryamirshad04&theme=dark&hide_border=true&background=0D1B1A&ring=8FE8C8&fire=FF6FB5&currStreakLabel=D6FFE7&sideLabels=D6FFE7&dates=6E9C8E" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamirshad04&layout=compact&theme=dark&hide_border=true&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamirshad04&layout=compact&theme=dark&hide_border=true&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&cache_seconds=1800" height="165"/>
 
 </div>
 
@@ -77,4 +83,8 @@
 
 <div align="center">
   <img src="assets/footer-banner.gif" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>Math! 🍭 — thanks for stopping by the tree fort.</sub>
 </div>
