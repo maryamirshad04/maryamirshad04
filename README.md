@@ -3,17 +3,13 @@
 <img src="assets/header-banner.gif" width="100%"/>
 
 <a href="https://github.com/maryamirshad04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FE8C8&center=true&vCenter=true&width=650&lines=I'm+Maryam+%E2%80%94+turning+coffee+into+code+since+day+one;Currently+questing+through+my+final+semester+at+FAST+NUCES;Half+web+dev%2C+half+ML%2C+all+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8FE8C8&center=true&vCenter=true&width=650&lines=I'm+Maryam+Quid novi?+Turning+coffee+into+code+since+day+one;RN+questing+through+my+7th+semester+at+FAST+NUCES;Half+web+dev%2C+half+ML%2C+all+curiosity" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
 
-<!--
-  🍭 Upload all three gifs into an /assets folder in this repo:
-  header-banner.gif, bmo-dither.gif, footer-banner.gif
--->
 <div align="center">
   <img src="assets/bmo-dither.gif" width="520" alt="Dithered BMO"/>
   <br>
@@ -48,8 +44,6 @@
 
 </div>
 
-> Swap in any other repos you'd rather feature — just change the `repo=` name in each card link above to match.
-
 <br>
 
 ## 📅 The Enchiridion (Contribution Calendar)
@@ -76,15 +70,11 @@
 ### 🛠️ Tools in My Backpack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,supabase,python,html,css,tailwind,figma,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,supabase,python,html,css,tailwind,figma,SQL,Flask,git&theme=dark" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="assets/footer-banner.gif" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>Math! 🍭 — thanks for stopping by the tree fort.</sub>
 </div>
