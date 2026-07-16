@@ -48,8 +48,6 @@
 
 </div>
 
-> Swap in any other repos you'd rather feature — just change the `repo=` name in each card link above to match.
-
 <br>
 
 ## 📅 The Enchiridion (Contribution Calendar)
