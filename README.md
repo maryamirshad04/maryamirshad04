@@ -38,7 +38,7 @@
 <a href="https://github.com/maryamirshad04/EventEase">
   <img src="assets/eventease.png" height="165" alt="EventEase"/>
 </a>
-<a href="https://github.com/maryamirshad04/EvnGuard">
+<a href="https://github.com/maryamirshad04/EnvGuard">
   <img src="assets/evnguard.png" height="165" alt="EvnGuard"/>
 </a>
 
@@ -77,5 +77,5 @@
 </div>
 
 <div align="center">
-  <sub>Math! 🍭 — thanks for stopping by the tree fort.</sub>
+  <sub>Thanks for stopping by the tree fort.</sub>
 </div>
