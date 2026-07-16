@@ -10,10 +10,6 @@
 
 <br>
 
-<!--
-  🍭 Upload all three gifs into an /assets folder in this repo:
-  header-banner.gif, bmo-dither.gif, footer-banner.gif
--->
 <div align="center">
   <img src="assets/bmo-dither.gif" width="520" alt="Dithered BMO"/>
   <br>
@@ -31,19 +27,19 @@
 <div align="center">
 
 <a href="https://github.com/maryamirshad04/HypeWall">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=HypeWall&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
+  <img src="assets/hypewall.png" height="165" alt="HypeWall"/>
 </a>
 <a href="https://github.com/maryamirshad04/sickleaf">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=sickleaf&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
+  <img src="assets/sickleaf.png" height="165" alt="SickLeaf"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/maryamirshad04/EventEase">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=EventEase&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
+  <img src="assets/eventease.png" height="165" alt="EventEase"/>
 </a>
-<a href="https://github.com/maryamirshad04/ClearWay">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=maryamirshad04&repo=ClearWay&theme=dark&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&border_color=17524B&hide_border=false&cache_seconds=1800" />
+<a href="https://github.com/maryamirshad04/EvnGuard">
+  <img src="assets/evnguard.png" height="165" alt="EvnGuard"/>
 </a>
 
 </div>
@@ -62,12 +58,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maryamirshad04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&icon_color=FF6FB5&cache_seconds=1800" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=maryamirshad04&theme=dark&hide_border=true&background=0D1B1A&ring=8FE8C8&fire=FF6FB5&currStreakLabel=D6FFE7&sideLabels=D6FFE7&dates=6E9C8E" height="165"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamirshad04&layout=compact&theme=dark&hide_border=true&bg_color=0D1B1A&title_color=8FE8C8&text_color=D6FFE7&cache_seconds=1800" height="165"/>
 
 </div>
 
