@@ -67,7 +67,7 @@
 ### 🛠️ Tools in My Backpack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,supabase,python,html,css,tailwind,figma,SQL,Flask,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,python,html,css,tailwind,figma,SQL,Flask,git&theme=dark" />
 </div>
 
 <br>
